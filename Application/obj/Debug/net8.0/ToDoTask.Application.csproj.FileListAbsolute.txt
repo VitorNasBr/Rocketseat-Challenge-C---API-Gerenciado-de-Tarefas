@@ -1,0 +1,15 @@
+C:\Projects\LearningC#\ToDoTaskAPI\Application\bin\Debug\net8.0\ToDoTask.Application.deps.json
+C:\Projects\LearningC#\ToDoTaskAPI\Application\bin\Debug\net8.0\ToDoTask.Application.dll
+C:\Projects\LearningC#\ToDoTaskAPI\Application\bin\Debug\net8.0\ToDoTask.Application.pdb
+C:\Projects\LearningC#\ToDoTaskAPI\Application\bin\Debug\net8.0\ToDoTask.Communication.dll
+C:\Projects\LearningC#\ToDoTaskAPI\Application\bin\Debug\net8.0\ToDoTask.Communication.pdb
+C:\Projects\LearningC#\ToDoTaskAPI\Application\obj\Debug\net8.0\ToDoTask.Application.csproj.AssemblyReference.cache
+C:\Projects\LearningC#\ToDoTaskAPI\Application\obj\Debug\net8.0\ToDoTask.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\LearningC#\ToDoTaskAPI\Application\obj\Debug\net8.0\ToDoTask.Application.AssemblyInfoInputs.cache
+C:\Projects\LearningC#\ToDoTaskAPI\Application\obj\Debug\net8.0\ToDoTask.Application.AssemblyInfo.cs
+C:\Projects\LearningC#\ToDoTaskAPI\Application\obj\Debug\net8.0\ToDoTask.Application.csproj.CoreCompileInputs.cache
+C:\Projects\LearningC#\ToDoTaskAPI\Application\obj\Debug\net8.0\ToDoTask.154DFA1D.Up2Date
+C:\Projects\LearningC#\ToDoTaskAPI\Application\obj\Debug\net8.0\ToDoTask.Application.dll
+C:\Projects\LearningC#\ToDoTaskAPI\Application\obj\Debug\net8.0\refint\ToDoTask.Application.dll
+C:\Projects\LearningC#\ToDoTaskAPI\Application\obj\Debug\net8.0\ToDoTask.Application.pdb
+C:\Projects\LearningC#\ToDoTaskAPI\Application\obj\Debug\net8.0\ref\ToDoTask.Application.dll

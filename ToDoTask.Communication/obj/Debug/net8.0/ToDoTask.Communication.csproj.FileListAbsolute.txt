@@ -1,0 +1,11 @@
+C:\Projects\LearningC#\ToDoTaskAPI\ToDoTask.Communication\bin\Debug\net8.0\ToDoTask.Communication.deps.json
+C:\Projects\LearningC#\ToDoTaskAPI\ToDoTask.Communication\bin\Debug\net8.0\ToDoTask.Communication.dll
+C:\Projects\LearningC#\ToDoTaskAPI\ToDoTask.Communication\bin\Debug\net8.0\ToDoTask.Communication.pdb
+C:\Projects\LearningC#\ToDoTaskAPI\ToDoTask.Communication\obj\Debug\net8.0\ToDoTask.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\LearningC#\ToDoTaskAPI\ToDoTask.Communication\obj\Debug\net8.0\ToDoTask.Communication.AssemblyInfoInputs.cache
+C:\Projects\LearningC#\ToDoTaskAPI\ToDoTask.Communication\obj\Debug\net8.0\ToDoTask.Communication.AssemblyInfo.cs
+C:\Projects\LearningC#\ToDoTaskAPI\ToDoTask.Communication\obj\Debug\net8.0\ToDoTask.Communication.csproj.CoreCompileInputs.cache
+C:\Projects\LearningC#\ToDoTaskAPI\ToDoTask.Communication\obj\Debug\net8.0\ToDoTask.Communication.dll
+C:\Projects\LearningC#\ToDoTaskAPI\ToDoTask.Communication\obj\Debug\net8.0\refint\ToDoTask.Communication.dll
+C:\Projects\LearningC#\ToDoTaskAPI\ToDoTask.Communication\obj\Debug\net8.0\ToDoTask.Communication.pdb
+C:\Projects\LearningC#\ToDoTaskAPI\ToDoTask.Communication\obj\Debug\net8.0\ref\ToDoTask.Communication.dll
